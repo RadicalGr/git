@@ -1,4 +1,8 @@
 welcome to my repo
 git is good so far
 from update-readme branch
-it's rainy today
+<<<<<<< HEAD
+it's windy today
+=======
+it's cloudy today
+>>>>>>> update-readme
